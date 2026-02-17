@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+#range::-webkit-range-thumb{
+  border: none;
+  background-color: red;
+}
